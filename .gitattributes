@@ -1,2 +1,3 @@
 *.txt text eol=lf
 *.bat text eol=crlf
+*.sma text eol=lf
