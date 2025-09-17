@@ -61,7 +61,6 @@ public load_class(id)
 		server_print("[LOAD] Zombie Class ID %d loaded for player %s", classid, g_playername[id])
 		
 	else server_print("[LOAD] Failed to load zombie class ID %d for player %s", classid, g_playername[id])
-
 }
 
 
